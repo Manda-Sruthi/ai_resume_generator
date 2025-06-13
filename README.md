@@ -35,5 +35,5 @@ streamlit run app.py
 
 ## 🙋‍♀️ Created By
 
-**Priya**  
+**Sruthi**  
 4th year AIML Student passionate about building smart tools using Python & AI.
